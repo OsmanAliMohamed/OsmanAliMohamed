@@ -4,7 +4,7 @@
 
 [![Email](https://img.shields.io/badge/Email-osmanali.software%40gmail.com-red?style=flat&logo=gmail)](mailto:osmanali.software@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-OsmanAliMohamed-181717?style=flat&logo=github)](https://github.com/OsmanAliMohamed)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/OsmanAliMohamed)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/osmanalidev/)
 [![Phone](https://img.shields.io/badge/Phone-01155282129-green?style=flat&logo=whatsapp)](tel:+201155282129)
 
 ---
